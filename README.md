@@ -1,6 +1,6 @@
 # stream-cloud
 
-demo : [downloader_star_bot](https://t.me/downloader_star_bot)
+demo : [@HYBRID_F2L_BOT](https://t.me/HYBRID_F2L_BOT)
 
 
 # Run :
@@ -15,9 +15,9 @@ demo : [downloader_star_bot](https://t.me/downloader_star_bot)
 
 * Heroku :
 
-    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/musa-42/stream-cloud)
+    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zainulhibath/filetolinktg)
 
-    `git clone https://github.com/musa-42/stream-cloud`
+    `git clone https://github.com/zainulhibath/filetolinktg`
     
     > edit Config/__init__.py
     
@@ -29,7 +29,7 @@ demo : [downloader_star_bot](https://t.me/downloader_star_bot)
 
     > install python3.8+
     
-    `git clone https://github.com/musa-42/stream-cloud`
+    `git clone https://github.com/zainulhibath/filetolinktg`
     
     > set Environment or edit Config/__init__.py
     
@@ -53,7 +53,7 @@ Environment :
 |channel_files_chat_id|Telegram channel chat ID for storing and managing files|-10012345466|
 |channel_username|Telegram channel username for support|Userlandapp|
 |token|Telegram robot token for launch|0000000:AAFFMMgYoL9Vjb5KUU0bXxVReUI81xuU|
-|domain|application domain|https://newdlstar.herokuapp.com|
+|domain|application domain|https://hybridf2l.herokuapp.com|
 
 
 
@@ -64,14 +64,3 @@ Management guide:
     If a file is edited in the storage channel and replaced by another file, the link will download the new file
     If a user is blocked from the support channel, he can no longer use the robot
 
-# Donate:
-
-btc:
-    `bc1qzw6l9a43f26epyme0yskz2zqzd7fppjnumnfv8`
-
-trc20:
-    `TJRA6PZoNZP5shdeJVLvGfEqWR7X4kXfuW`
-
-bep20, erc20:
-    `0x8B988133D96150a3324D0BE8124A65fB6A09612C`
-    
