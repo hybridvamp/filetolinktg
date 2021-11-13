@@ -38,7 +38,7 @@ async def download(event):
                 participant = event.sender_id
                 ))
         except errors.UserNotParticipantError:
-            await event.reply(f"First join to our official channel to access the bot or get the newest news about the bot\n\n@{Config.CHANNEL_USERNAME}\n\nAfter that /start the bot aging.")
+            await event.reply(f"First join to our official channel to access the bot and get the latest updates about the bot\n\n@{Config.CHANNEL_USERNAME}\n\nAfter that send /start agin.")
             return
         
         if event.file :
