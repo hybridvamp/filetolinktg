@@ -64,3 +64,9 @@ Management guide:
     If a file is edited in the storage channel and replaced by another file, the link will download the new file
     If a user is blocked from the support channel, he can no longer use the robot
 
+
+## Support Telegram Group and Channel
+
+<a href="http://t.me/Tech_MasterZ"><img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png" style="width: 300px; height: 100px"></a>
+
+<a href="http://t.me/Tech_MasterZ_Chat"><img src="https://www.pngitem.com/pimgs/m/214-2144731_groups-on-telegram-telegram-group-link-png-transparent.png" style="width: 280px; height: 80px"></a>
